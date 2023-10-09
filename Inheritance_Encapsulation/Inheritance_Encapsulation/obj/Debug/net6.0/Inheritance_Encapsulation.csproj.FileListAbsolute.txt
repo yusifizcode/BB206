@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\net6.0\Inheritance_Encapsulation.exe
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\net6.0\Inheritance_Encapsulation.deps.json
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\net6.0\Inheritance_Encapsulation.runtimeconfig.json
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\net6.0\Inheritance_Encapsulation.dll
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\net6.0\Inheritance_Encapsulation.pdb
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\Inheritance_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\Inheritance_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\Inheritance_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\Inheritance_Encapsulation.AssemblyInfo.cs
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\Inheritance_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\Inheritance_Encapsulation.dll
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\refint\Inheritance_Encapsulation.dll
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\Inheritance_Encapsulation.pdb
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\Inheritance_Encapsulation.genruntimeconfig.cache
+C:\Users\User\Desktop\BB206\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\net6.0\ref\Inheritance_Encapsulation.dll

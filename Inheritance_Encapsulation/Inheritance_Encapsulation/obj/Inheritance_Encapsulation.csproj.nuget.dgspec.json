@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\BB206\\Class, Constructor\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\User\\Desktop\\BB206\\Inheritance_Encapsulation\\Inheritance_Encapsulation\\Inheritance_Encapsulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\BB206\\Class, Constructor\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\User\\Desktop\\BB206\\Inheritance_Encapsulation\\Inheritance_Encapsulation\\Inheritance_Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\BB206\\Class, Constructor\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\User\\Desktop\\BB206\\Class, Constructor\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BB206\\Inheritance_Encapsulation\\Inheritance_Encapsulation\\Inheritance_Encapsulation.csproj",
+        "projectName": "Inheritance_Encapsulation",
+        "projectPath": "C:\\Users\\User\\Desktop\\BB206\\Inheritance_Encapsulation\\Inheritance_Encapsulation\\Inheritance_Encapsulation.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\BB206\\Class, Constructor\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\BB206\\Inheritance_Encapsulation\\Inheritance_Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
