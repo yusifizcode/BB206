@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\bin\Debug\net6.0\StringMethodsClassWork.exe
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\bin\Debug\net6.0\StringMethodsClassWork.deps.json
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\bin\Debug\net6.0\StringMethodsClassWork.runtimeconfig.json
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\bin\Debug\net6.0\StringMethodsClassWork.dll
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\bin\Debug\net6.0\StringMethodsClassWork.pdb
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\StringMethodsClassWork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\StringMethodsClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\StringMethodsClassWork.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\StringMethodsClassWork.AssemblyInfo.cs
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\StringMethodsClassWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\StringMethodsClassWork.dll
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\refint\StringMethodsClassWork.dll
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\StringMethodsClassWork.pdb
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\StringMethodsClassWork.genruntimeconfig.cache
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\StringMethodsClassWork\obj\Debug\net6.0\ref\StringMethodsClassWork.dll

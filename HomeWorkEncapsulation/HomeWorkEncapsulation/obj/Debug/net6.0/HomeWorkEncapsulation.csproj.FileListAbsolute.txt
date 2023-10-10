@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\bin\Debug\net6.0\HomeWorkEncapsulation.exe
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\bin\Debug\net6.0\HomeWorkEncapsulation.deps.json
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\bin\Debug\net6.0\HomeWorkEncapsulation.runtimeconfig.json
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\bin\Debug\net6.0\HomeWorkEncapsulation.dll
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\bin\Debug\net6.0\HomeWorkEncapsulation.pdb
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\HomeWorkEncapsulation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\HomeWorkEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\HomeWorkEncapsulation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\HomeWorkEncapsulation.AssemblyInfo.cs
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\HomeWorkEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\HomeWorkEncapsulation.dll
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\refint\HomeWorkEncapsulation.dll
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\HomeWorkEncapsulation.pdb
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\HomeWorkEncapsulation.genruntimeconfig.cache
+C:\Users\User\Desktop\BB206\HomeWorkEncapsulation\HomeWorkEncapsulation\obj\Debug\net6.0\ref\HomeWorkEncapsulation.dll
