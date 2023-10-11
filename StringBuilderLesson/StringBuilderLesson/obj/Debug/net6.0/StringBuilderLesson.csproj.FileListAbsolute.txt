@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\bin\Debug\net6.0\StringBuilderLesson.exe
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\bin\Debug\net6.0\StringBuilderLesson.deps.json
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\bin\Debug\net6.0\StringBuilderLesson.runtimeconfig.json
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\bin\Debug\net6.0\StringBuilderLesson.dll
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\bin\Debug\net6.0\StringBuilderLesson.pdb
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\StringBuilderLesson.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\StringBuilderLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\StringBuilderLesson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\StringBuilderLesson.AssemblyInfo.cs
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\StringBuilderLesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\StringBuilderLesson.dll
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\refint\StringBuilderLesson.dll
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\StringBuilderLesson.pdb
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\StringBuilderLesson.genruntimeconfig.cache
+C:\Users\User\Desktop\BB206\StringBuilderLesson\StringBuilderLesson\obj\Debug\net6.0\ref\StringBuilderLesson.dll
