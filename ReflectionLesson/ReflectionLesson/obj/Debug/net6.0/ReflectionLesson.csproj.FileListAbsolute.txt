@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\bin\Debug\net6.0\ReflectionLesson.exe
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\bin\Debug\net6.0\ReflectionLesson.deps.json
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\bin\Debug\net6.0\ReflectionLesson.runtimeconfig.json
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\bin\Debug\net6.0\ReflectionLesson.dll
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\bin\Debug\net6.0\ReflectionLesson.pdb
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ReflectionLesson.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ReflectionLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ReflectionLesson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ReflectionLesson.AssemblyInfo.cs
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ReflectionLesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ReflectionLesson.dll
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\refint\ReflectionLesson.dll
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ReflectionLesson.pdb
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ReflectionLesson.genruntimeconfig.cache
+C:\Users\User\Desktop\BB206\ReflectionLesson\ReflectionLesson\obj\Debug\net6.0\ref\ReflectionLesson.dll
