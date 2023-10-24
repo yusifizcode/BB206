@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\bin\Debug\net6.0\SealedNullable.exe
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\bin\Debug\net6.0\SealedNullable.deps.json
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\bin\Debug\net6.0\SealedNullable.runtimeconfig.json
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\bin\Debug\net6.0\SealedNullable.dll
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\bin\Debug\net6.0\SealedNullable.pdb
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\SealedNullable.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\SealedNullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\SealedNullable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\SealedNullable.AssemblyInfo.cs
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\SealedNullable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\SealedNullable.dll
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\refint\SealedNullable.dll
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\SealedNullable.pdb
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\SealedNullable.genruntimeconfig.cache
+C:\Users\User\Desktop\BB206\SealedNullable\SealedNullable\obj\Debug\net6.0\ref\SealedNullable.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23102023", "23102023\23102023.csproj", "{E6945A7D-CCD7-4A00-976C-4202E1F79817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTask", "ClassTask\ClassTask.csproj", "{A2ABC6D6-C8BA-4999-8232-2715AC6CAEDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{906E7045-8FB1-4FC0-BC2F-C20BB4FF9B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6945A7D-CCD7-4A00-976C-4202E1F79817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6945A7D-CCD7-4A00-976C-4202E1F79817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6945A7D-CCD7-4A00-976C-4202E1F79817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6945A7D-CCD7-4A00-976C-4202E1F79817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2ABC6D6-C8BA-4999-8232-2715AC6CAEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2ABC6D6-C8BA-4999-8232-2715AC6CAEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2ABC6D6-C8BA-4999-8232-2715AC6CAEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2ABC6D6-C8BA-4999-8232-2715AC6CAEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906E7045-8FB1-4FC0-BC2F-C20BB4FF9B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906E7045-8FB1-4FC0-BC2F-C20BB4FF9B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906E7045-8FB1-4FC0-BC2F-C20BB4FF9B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906E7045-8FB1-4FC0-BC2F-C20BB4FF9B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3EC29EA-F688-4620-831E-DB34F8ED10C9}
+	EndGlobalSection
+EndGlobal
