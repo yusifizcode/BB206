@@ -4,6 +4,13 @@
     {
         static void Main(string[] args)
         {
+            //1.Yeni folder yarat
+            //2.Yeni fayl yarat
+            //2.1 Yazi yazmaq isteyirsiniz mi?(yes / no)
+            //yes->console'a yazdiginiz yazi yaratdiginiz fayla elave olunur.
+            //no->yazdiginiz yazini oxuyursunuz.
+            //0.Exit->bu zaman hemin rootdaki butun folderleri ve yarandigi zamanlari ekrana cixarib proqrami sonlandirirsiniz
+
             string path = "C:\\Users\\User\\Desktop";
             DirectoryInfo directory = new DirectoryInfo(path);
 
