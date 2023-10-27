@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\bin\Debug\net6.0\FileDirectoryClassWork.exe
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\bin\Debug\net6.0\FileDirectoryClassWork.deps.json
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\bin\Debug\net6.0\FileDirectoryClassWork.runtimeconfig.json
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\bin\Debug\net6.0\FileDirectoryClassWork.dll
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\bin\Debug\net6.0\FileDirectoryClassWork.pdb
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\FileDirectoryClassWork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\FileDirectoryClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\FileDirectoryClassWork.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\FileDirectoryClassWork.AssemblyInfo.cs
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\FileDirectoryClassWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\FileDirectoryClassWork.dll
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\refint\FileDirectoryClassWork.dll
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\FileDirectoryClassWork.pdb
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\FileDirectoryClassWork.genruntimeconfig.cache
+C:\Users\User\Desktop\BB206\FileDirectoryClassWork\FileDirectoryClassWork\obj\Debug\net6.0\ref\FileDirectoryClassWork.dll
