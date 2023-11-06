@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0;
+}
+
+.navbar h1{
+    color: white;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+}
+
+.navigation a{
+    color: white;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+.welcome{
+    background-color: rgb(54, 54, 231);
+    padding: 100px 0;
+    color: white;
+    text-align: center;
+}
+
+.welcome button{
+    padding: 15px 25px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.container{
+    max-width: 60%;
+    margin: 0px auto;
+}
+
+.fs-2{
+    font-size: 20px;
+}
+
+.fs-3{
+    font-size: 30px;
+}
+
+.fs-5{
+    font-size: 50px;
+}
+
+.my-1{
+    margin: 10px 0;
+}
+
+#about{
+    background-color: white;
+}
+
+#services{
+    background-color: lightgray;
+}
+
+.py-5{
+    padding: 100px 0px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
