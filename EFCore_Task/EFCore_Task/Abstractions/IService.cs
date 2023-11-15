@@ -3,9 +3,9 @@
     public interface IService<T>
     {
         void Create(T entity);
-        void Delete(int id);
-
+        void Delete(int? id);
+        void Update(int? id, T entity);
         List<T> GetAll();
-        T GetById(int id);
+        T GetById(int? id);
     }
 }

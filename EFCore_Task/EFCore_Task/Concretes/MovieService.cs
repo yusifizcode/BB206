@@ -9,12 +9,22 @@ namespace EFCore_Task.Concretes
         AppDbContext _context = new AppDbContext();
         public void Create(Movie entity)
         {
-            _context.Movies.Add(entity);
-            _context.SaveChanges();
+            if (entity != null)
+            {
+                _context.Movies.Add(entity);
+                _context.SaveChanges();
+            }
+
         }
 
-        public void Delete(int id)
+        public void Delete(int? id)
         {
+            if (id == null)
+            {
+                Console.WriteLine("Error!");
+                return;
+            }
+
             Movie existMovie = _context.Movies.Find(id);
             if (existMovie != null)
             {
@@ -33,10 +43,36 @@ namespace EFCore_Task.Concretes
             return movies;
         }
 
-        public Movie GetById(int id)
+        public Movie GetById(int? id)
         {
             var movie = _context.Movies.Find(id);
-            return movie;
+
+            if (id != null)
+                return movie;
+
+            return null;
+        }
+
+        public void Update(int? id, Movie entity)
+        {
+            if (id == null || entity == null)
+            {
+                Console.WriteLine("Error");
+                return;
+            }
+
+            var existMovie = _context.Movies.Find(id);
+            if (existMovie == null)
+            {
+                Console.WriteLine("Error!");
+                return;
+            }
+
+
+            existMovie.Name = entity.Name;
+            existMovie.Genre = entity.Genre;
+            existMovie.DirectorId = entity.DirectorId;
+            _context.SaveChanges();
         }
     }
 }
